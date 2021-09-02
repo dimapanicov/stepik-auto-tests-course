@@ -1,1 +1,1 @@
-# stepik-auto-tests-course
+Тут хранится проект
